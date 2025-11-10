@@ -1,3 +1,4 @@
+"""Файл конфигурации приложения."""
 import os
 from pathlib import Path
 
